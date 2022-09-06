@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/MFajardoR/react-consume-api/static/css/main.69eda509.chunk.css",
-    "main.js": "/MFajardoR/react-consume-api/static/js/main.4679a5e8.chunk.js",
-    "main.js.map": "/MFajardoR/react-consume-api/static/js/main.4679a5e8.chunk.js.map",
-    "runtime-main.js": "/MFajardoR/react-consume-api/static/js/runtime-main.6c142178.js",
-    "runtime-main.js.map": "/MFajardoR/react-consume-api/static/js/runtime-main.6c142178.js.map",
-    "static/css/2.0713e240.chunk.css": "/MFajardoR/react-consume-api/static/css/2.0713e240.chunk.css",
-    "static/js/2.1876141c.chunk.js": "/MFajardoR/react-consume-api/static/js/2.1876141c.chunk.js",
-    "static/js/2.1876141c.chunk.js.map": "/MFajardoR/react-consume-api/static/js/2.1876141c.chunk.js.map",
-    "index.html": "/MFajardoR/react-consume-api/index.html",
-    "precache-manifest.1439b946fd5bace1d1e8a55609162e2e.js": "/MFajardoR/react-consume-api/precache-manifest.1439b946fd5bace1d1e8a55609162e2e.js",
-    "service-worker.js": "/MFajardoR/react-consume-api/service-worker.js",
-    "static/css/2.0713e240.chunk.css.map": "/MFajardoR/react-consume-api/static/css/2.0713e240.chunk.css.map",
-    "static/css/main.69eda509.chunk.css.map": "/MFajardoR/react-consume-api/static/css/main.69eda509.chunk.css.map",
-    "static/js/2.1876141c.chunk.js.LICENSE.txt": "/MFajardoR/react-consume-api/static/js/2.1876141c.chunk.js.LICENSE.txt",
-    "static/media/primereact.min.css": "/MFajardoR/react-consume-api/static/media/line.567f5738.gif",
-    "static/media/theme.css": "/MFajardoR/react-consume-api/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
-    "static/media/primeicons.css": "/MFajardoR/react-consume-api/static/media/primeicons.79432094.woff"
+    "main.css": "/react-consume-api/static/css/main.69eda509.chunk.css",
+    "main.js": "/react-consume-api/static/js/main.edafd9b1.chunk.js",
+    "main.js.map": "/react-consume-api/static/js/main.edafd9b1.chunk.js.map",
+    "runtime-main.js": "/react-consume-api/static/js/runtime-main.8baf38ef.js",
+    "runtime-main.js.map": "/react-consume-api/static/js/runtime-main.8baf38ef.js.map",
+    "static/css/2.281c4cd2.chunk.css": "/react-consume-api/static/css/2.281c4cd2.chunk.css",
+    "static/js/2.1876141c.chunk.js": "/react-consume-api/static/js/2.1876141c.chunk.js",
+    "static/js/2.1876141c.chunk.js.map": "/react-consume-api/static/js/2.1876141c.chunk.js.map",
+    "index.html": "/react-consume-api/index.html",
+    "precache-manifest.095a6ff4638848b47bb92a07d23cbda9.js": "/react-consume-api/precache-manifest.095a6ff4638848b47bb92a07d23cbda9.js",
+    "service-worker.js": "/react-consume-api/service-worker.js",
+    "static/css/2.281c4cd2.chunk.css.map": "/react-consume-api/static/css/2.281c4cd2.chunk.css.map",
+    "static/css/main.69eda509.chunk.css.map": "/react-consume-api/static/css/main.69eda509.chunk.css.map",
+    "static/js/2.1876141c.chunk.js.LICENSE.txt": "/react-consume-api/static/js/2.1876141c.chunk.js.LICENSE.txt",
+    "static/media/primereact.min.css": "/react-consume-api/static/media/line.567f5738.gif",
+    "static/media/theme.css": "/react-consume-api/static/media/open-sans-v15-latin-regular.cffb686d.woff2",
+    "static/media/primeicons.css": "/react-consume-api/static/media/primeicons.79432094.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.6c142178.js",
-    "static/css/2.0713e240.chunk.css",
+    "static/js/runtime-main.8baf38ef.js",
+    "static/css/2.281c4cd2.chunk.css",
     "static/js/2.1876141c.chunk.js",
     "static/css/main.69eda509.chunk.css",
-    "static/js/main.4679a5e8.chunk.js"
+    "static/js/main.edafd9b1.chunk.js"
   ]
 }
